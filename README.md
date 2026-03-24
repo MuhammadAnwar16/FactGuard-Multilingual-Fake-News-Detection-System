@@ -1,11 +1,23 @@
 # Multilingual-Fake-News-Detection
 ![A](https://github.com/user-attachments/assets/48961f86-9e2d-4416-a860-f69e49bbe375)
-
----------------------NOTE--------------------------------------------------------
-While the primary model files for the LLM and RAG scraper are maintained on GCP for confidentiality, the underlying logic and integration remain the core of this project.
-
-Want to build this yourself? I am open to sharing my process! If you would like to explore the GCP environment setup or understand the live scraping workflow in detail, feel free to reach out. I am always happy to help fellow developers navigate the setup.
-📩 Contact: Asfandyar.Shabbir77@gmail.com
+<table width="100%">
+  <table width="100%">
+  <tr>
+    <td bgcolor="#f6f8fa">
+      <h3> Getting Started & Deployment</h3>
+      <p>
+        While the primary model files for the <b>LLM and RAG scraper</b> are maintained on <b>GCP</b> for confidentiality, the underlying logic and integration remain the core of this project.
+      </p>
+      <p>
+        <b>Want to build this yourself?</b> I am open to sharing my process! If you would like to explore the <b>GCP environment setup</b> or understand the <b>live scraping workflow</b> in detail, feel free to reach out. I am always happy to help fellow developers navigate the setup and explore these technologies together.
+      </p>
+      <p>
+        📩 <b>Contact:</b> 
+        <a href="mailto:Asfandyar.Shabbir77@gmail.com">Asfandyar.Shabbir77@gmail.com</a>
+      </p>
+    </td>
+  </tr>
+</table>
 ---------------------------------------------------Examples---------------------------------------------------
 <img width="1363" height="653" alt="Screenshot from 2025-12-02 20-17-45" src="https://github.com/user-attachments/assets/14a5f2a3-3115-4c66-8272-dee7cd4ff73e" />
 <img width="1363" height="593" alt="Screenshot from 2026-03-24 14-15-02" src="https://github.com/user-attachments/assets/8ce9d8f7-f7d9-4674-88a5-a34b88da5444" />
