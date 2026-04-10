@@ -13,6 +13,7 @@
       <p>
         📩 <b>Contact:</b> 
         <a href="mailto:Asfandyar.Shabbir77@gmail.com">Asfandyar.Shabbir77@gmail.com</a>
+        <a href="mailto:anwarimdad@gmail.com">anwarimdad@gmail.com</a>
       </p>
     </td>
   </tr>
