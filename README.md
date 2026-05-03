@@ -95,12 +95,6 @@ Sample response (abridged):
 - History API (DRF router): `GET /history/` returns stored `QueryHistory` items.
 
 ## Screenshots
-Logo and build assets (local):
-
-![FactGuard Logo](factguard/public/FactGuardLogo.png)
-![Vite Logo](factguard/public/vite.svg)
-
-Previous UI screenshots (hosted):
 
 ![Screenshot 1](https://github.com/user-attachments/assets/14a5f2a3-3115-4c66-8272-dee7cd4ff73e)
 ![Screenshot 2](https://github.com/user-attachments/assets/8ce9d8f7-f7d9-4674-88a5-a34b88da5444)
