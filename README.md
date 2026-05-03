@@ -1,7 +1,5 @@
-      # FactGuard — Multilingual Fake News Detection
-# FactGuard — Multilingual Fake News Detection
 
-![FactGuard Logo](factguard/public/FactGuardLogo.png)
+# FactGuard — Multilingual Fake News Detection
 
 FactGuard helps detect misinformation across languages by combining NLP modules, an optional custom fact-checking model, and a simple UI for non-technical users. It is built as a Django backend (API + analysis modules) and a React + Vite frontend.
 
